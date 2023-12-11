@@ -413,4 +413,4 @@ bpfilter.internal <- function (object, Np, block_list, save_states, filter_traj,
     filter.traj=filt.t
   )
 }
-v
+
